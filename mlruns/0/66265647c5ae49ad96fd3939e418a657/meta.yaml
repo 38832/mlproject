@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlproject/mlruns/0/66265647c5ae49ad96fd3939e418a657/artifacts
+end_time: 1737203942177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66265647c5ae49ad96fd3939e418a657
+run_name: calm-mole-53
+run_uuid: 66265647c5ae49ad96fd3939e418a657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737203933456
+status: 3
+tags: []
+user_id: root
