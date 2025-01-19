@@ -47,7 +47,7 @@ Data was ingested from a MySQL database into a Pandas DataFrame. This process in
 ---
 
 ## Data Transformation
-The transformation phase included rigorous data preprocessing. Tasks such as handling missing values, normalizing data, and performing feature engineering were executed. This step is critical for enhancing model performance and ensuring data quality.
+The transformation phase included rigorous data preprocessing. Tasks such as handling One Hot Encodng, normalizing data, and performing feature engineering were executed. This step is critical for enhancing model performance and ensuring data quality.
 
 ---
 
@@ -57,12 +57,12 @@ EDA was conducted using Matplotlib and Seaborn, focusing on statistical summarie
 ---
 
 ## Model Training
-Various machine learning models, including Decision Trees, Random Forests, and Gradient Boosting, were developed. Each model's hyperparameters were fine-tuned using cross-validation techniques. The Decision Tree model emerged as the best performer based on key metrics.
+Various machine learning models were trained, including Linear Regression, Decision Trees, XGBregessor, Random Forest Regressor, AdaBoost, and CatBoost. A GridSearchCV was applied to all models for hyperparameter tuning to identify the best configuration for each. After evaluating the performance of all models, Linear Regression emerged as the best performer, delivering the highest accuracy and lowest error metrics among the tested algorithms.
 
 ---
 
 ## Results
-Performance metrics of the Decision Tree model include:
+Performance metrics of the Linear Regression model include:
 
 - **RMSE**: 5.39
 - **R² Score**: 0.88
