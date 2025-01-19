@@ -1,6 +1,7 @@
 # Student Performance Analysis
 
-![dagshub](https://github.com/user-attachments/assets/0fdead23-46be-45e2-83bc-74b18b32b0d9)
+![DagsHub](https://github.com/38832/mlproject/blob/d8d00b957f5640452f96cd0259049111a52fec4a/assets/dagshub.png)
+
 
 ## Project Overview
 This project conducts a comprehensive analysis of student performance using a dataset extracted from a MySQL database. It adheres to the complete data science lifecycle, encompassing data ingestion, preprocessing, model development, evaluation, and deployment. Advanced tools such as MLflow and DVC are utilized for experiment tracking and data versioning, ensuring a reproducible and efficient workflow. Version control is maintained via Git and GitHub, providing a clear audit trail of project progress through iterative commits.
@@ -14,11 +15,12 @@ The objective is to leverage machine learning algorithms to forecast academic pe
 ### Data Science Tools
 |                                                                                                    |                                                                                                    |                                                                                                    |
 |----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| ![mlflow](https://github.com/user-attachments/assets/76bc4e91-838a-4a65-8dfe-75f77208b4c5)         | ![dvc](https://github.com/user-attachments/assets/458f699e-fb23-458c-a10a-2a1c6f1079f5)            | ![pandas](https://github.com/user-attachments/assets/7456f031-ea96-4373-9743-a87a87369596)         |
+| ![MLflow](https://github.com/38832/mlproject/blob/d8d00b957f5640452f96cd0259049111a52fec4a/assets/mlfow.png) | ![DVC](https://github.com/38832/mlproject/blob/d8d00b957f5640452f96cd0259049111a52fec4a/assets/dvc.png) | ![Pandas](https://github.com/38832/mlproject/blob/d8d00b957f5640452f96cd0259049111a52fec4a/assets/pandas.png) |
 | **MLflow** for experiment tracking                                                                 | **DVC** for data version control                                                                   | **Pandas** for data manipulation                                                                   |
 |                                                                                                    |                                                                                                    |                                                                                                    |
-| ![numpy](https://github.com/user-attachments/assets/df1fa382-b8bb-440e-b337-2447e0b1f463)          | ![matplotlib](https://github.com/user-attachments/assets/e1c79058-4005-49f8-9441-c1908bc851ed)     | ![mysql](https://github.com/user-attachments/assets/3c8bcf09-3acb-4d4b-8331-0bbc1ef08faa)          |
+| ![NumPy](https://github.com/38832/mlproject/blob/d8d00b957f5640452f96cd0259049111a52fec4a/assets/numpy.png) | ![Matplotlib](https://github.com/38832/mlproject/blob/d8d00b957f5640452f96cd0259049111a52fec4a/assets/matplotlib.png) | ![MySQL](https://github.com/38832/mlproject/blob/d8d00b957f5640452f96cd0259049111a52fec4a/assets/mysqllogo.png) |
 | **NumPy** for numerical computations                                                               | **Matplotlib** for data visualization                                                              | **MySQL** for data storage and retrieval                                                           |
+
 
 ---
 
@@ -73,7 +75,7 @@ These metrics underscore the model's predictive accuracy and robustness in handl
 ---
 
 ## DagsHub Experiments
-![DagsHub Experiments](https://github.com/user-attachments/assets/deae8657-6b73-4926-9c89-8b924d8d7500)
+![DagsHub Experiments](https://github.com/38832/mlproject/blob/e8bf6321024896840f6e291e9b5c683594eef93c/dagshubexp.png)
 
 DagsHub was utilized for experiment tracking and collaborative development. This platform enabled efficient version control and seamless collaboration among team members.
 
